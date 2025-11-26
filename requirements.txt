@@ -1,0 +1,5 @@
+streamlit
+pdfplumber
+google-generativeai
+python-dotenv
+typing_extensions
