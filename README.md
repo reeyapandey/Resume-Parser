@@ -53,9 +53,9 @@ streamlit run app.py
 
 🧪 How to Run the Benchmark
 
-~ To reproduce the accuracy scores:
-~ Ensure the data/ folder contains the source JSON dataset (Entity Recognition in Resumes.json).
-~ Run the preparation script to generate the benchmark files:
-~ python prepare_dataset.py
-~ Run the evaluation script to calculate scores:
-~ python evaluate.py
+> To reproduce the accuracy scores:
+> Ensure the data/ folder contains the source JSON dataset (Entity Recognition in Resumes.json).
+> Run the preparation script to generate the benchmark files:
+> python prepare_dataset.py
+> Run the evaluation script to calculate scores:
+> python evaluate.py
