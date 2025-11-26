@@ -51,20 +51,6 @@ streamlit run app.py
 
 > The app will open in your browser at http://localhost:8501/.
 
-📂 Project Structure
-
-ResumeParser/
-├── .env                                # API Keys (Not committed to Git)
-├── app.py                              # Streamlit Frontend Application
-├── utils.py                            # Backend Logic (AI & PDF parsing)
-├── requirements.txt                    # Python Dependencies
-├── evaluate.py                         # Accuracy Benchmarking Script
-├── prepare_dataset.py                  # Dataset Preparation Script
-└── data/                               # Data Folder
-    ├── Entity Recognition in Resumes.json  # Source Kaggle Dataset
-    └── benchmark/                      # Generated Ground Truth Files (txt/json)
-
-
 🧪 How to Run the Benchmark
 
 ~ To reproduce the accuracy scores:
